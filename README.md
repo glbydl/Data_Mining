@@ -1,4 +1,7 @@
 # Data_Mining
+1.MapReduce Basic Concept
+This project is for show the basic logic and thought of MapReduce, which is algorithm for distributed system.
+I used MapReduce to implement two program. One is to calculate people's connection, and the other is to calculate variance based on the input.
 
 1.LSH and Recommendation Systems
 This project is for finding similar users who love watching movies.
